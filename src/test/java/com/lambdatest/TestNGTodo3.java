@@ -22,7 +22,11 @@ public class TestNGTodo3 {
     public void setup(Method m, ITestContext ctx) throws MalformedURLException {
         //String username = System.getenv("LT_USERNAME") == null ? "Your LT Username" : System.getenv("LT_USERNAME");
         //String authkey = System.getenv("LT_ACCESS_KEY") == null ? "Your LT AccessKey" : System.getenv("LT_ACCESS_KEY");
-        
+
+
+        String username = "ravisalunkhe";
+        String authkey = "LT_ACCESS_KEY="LT_1zM6wZiQklihgDDdoki0af9MfWh6RERvlhplx64mlxEWTnr";
+
         String hub = "@hub.lambdatest.com/wd/hub";
 
         DesiredCapabilities caps = new DesiredCapabilities();
