@@ -25,7 +25,7 @@ public class TestNGTodo2 {
         String username = "ravisalunkhe";
         String authkey = "LT_ACCESS_KEY="LT_1zM6wZiQklihgDDdoki0af9MfWh6RERvlhplx64mlxEWTnr";
 
-        ;
+        
         
         /*
         Steps to run Smart UI project (https://beta-smartui.lambdatest.com/)
