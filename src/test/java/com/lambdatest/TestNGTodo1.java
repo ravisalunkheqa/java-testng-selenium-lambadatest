@@ -25,8 +25,6 @@ public class TestNGTodo1 {
         String username = "ravisalunkhe";
         String authkey = "LT_ACCESS_KEY="LT_1zM6wZiQklihgDDdoki0af9MfWh6RERvlhplx64mlxEWTnr";
 
-            set LT_USERNAME="ravisalunkhe" `
-set LT_ACCESS_KEY="LT_1zM6wZiQklihgDDdoki0af9MfWh6RERvlhplx64mlxEWTnr"
         ;
         String hub = "@hub.lambdatest.com/wd/hub";
 
